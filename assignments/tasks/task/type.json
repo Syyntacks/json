@@ -1,10 +1,11 @@
 {
-	"2": "Extract",
-    "3": "Eradicate",
-	"7": "CompleteMissions",
+	"2": "ExtractSamples",
+    "3": "KillEnemies",
+	"4": "CompleteObjs",
+	"7": "Extract",
 	"9": "CompleteOperations",
-	"11": "Liberation",
+	"11": "Liberate",
 	"12": "Defense",
-	"13": "Control",
-	"15": "Expand"
+	"13": "Hold",
+	"15": "Contest"
 }
